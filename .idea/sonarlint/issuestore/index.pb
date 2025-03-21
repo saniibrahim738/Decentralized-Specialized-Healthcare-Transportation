@@ -9,3 +9,7 @@ P
  tests/helpers/mock-blockchain.ts,0/3/035e0e087307c60f56380af3a5c127234149d544
 Q
 !tests/driver-verification.test.ts,a/e/aed8e13156083d879aa412242bb4f70e505fa271
+P
+ contracts/medical-equipment.clar,f/e/fe8e0855b4017771900bc824686afedf454f4f88
+O
+tests/medical-equipment.test.ts,a/e/ae18725626efa6395aaae2d41f4fd048b790f6fb
